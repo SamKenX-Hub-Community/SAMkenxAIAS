@@ -1,11 +1,11 @@
 
 <div align="left">
-<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/logo.png"  width = "200"  />
+<img src="https://aias-home.oss-en-manila.samkenx.org/images/logo.png"  width = "200"  />
 </div>
 
 
-Author: Calvin
-Mail: 179209347@qq.com
+
+
 
 
 #### AIAS (AI Accelerator Suite)
@@ -18,42 +18,42 @@ Mail: 179209347@qq.com
 
 
 <div align="center">
-  <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/aias_scope.png"  width = "600"  />
+  <img src="https://aias-home.oss-en-manila.samkenx.org/images/aias_scope.png"  width = "600"  />
 
   <table>
     <tr>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/aias_edge.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/images/aias_edge.png"  width = "250"  />
         </div>
       </td>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/aias_edge_cloud.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/images/aias_edge_cloud.png"  width = "250"  />
         </div>
       </td>
     </tr>
     <tr>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/aias_training1.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/images/aias_training1.png"  width = "250"  />
         </div>
       </td>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/aias_search.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/images/aias_search.png"  width = "250"  />
         </div>
       </td>
     </tr>  
     <tr>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/image_search/images/face_search.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/AIAS/image_search/images/face_search.png"  width = "250"  />
         </div>
       </td>
       <td>
         <div align="center">
-        <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/AIAS/train_platform/images/training.png"  width = "250"  />
+        <img src="https://aias-home.oss-en-manila.samkenx.org/AIAS/train_platform/images/training.png"  width = "250"  />
         </div>
       </td>
     </tr>   
@@ -121,22 +121,22 @@ Mail: 179209347@qq.com
 
 #### 1. quantum computing
 <div align="left">
-<img src="https://qubits.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "150"  />
+<img src="https://algosilicon.oss-en-manila.samkenx.org/images/logo.png"  width = "150"  />
 </div>
 
-- GitHub: https://github.com/mymagicpower/qubits
+- GitHub: https://github.com/samkenxstream/algosilicon
 
 #### 2. AI + biomedicine
 <div align="left">
-<img src="https://bio-computing.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
+<img src="https://bio-computing.oss-en-manila.samkenx.org/images/logo.png"  width = "200"  />
 </div>
 
-- GitHub: https://github.com/mymagicpower/bio-computing
+- GitHub: https://github.com/samkenxstream/bio-computing
 
 #### 3. AI desktop Apps
 <div align="left">
-<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
+<img src="https://aiart.oss-en-manila.samkenx.org/images/logo.png"  width = "200"  />
 </div>
 
-- GitHub: https://github.com/mymagicpower/easy_AI_apps  
+- GitHub: https://github.com/samkenxstream/easy_AI_apps  
 
